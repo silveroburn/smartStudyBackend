@@ -129,6 +129,8 @@ def addAdditionalInfo():
     
     return flask.jsonify({"message" : "user additional data added successfully"}), 201
 
+asdasdashdaskjdjaksdkj
+
 
 @app.route('/getAboutMe', methods=['POST'])
 def getAboutMe():
